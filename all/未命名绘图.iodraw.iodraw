@@ -56,10 +56,10 @@
         <mxCell id="kFzzLlEiG7KkbQ5cCiwf-19" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;生成&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;dgsblk&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;压缩数据流&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338.75" y="130" width="132.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kFzzLlEiG7KkbQ5cCiwf-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="440" y="350" as="targetPoint" />
+            <mxPoint x="350" y="230" as="sourcePoint" />
+            <mxPoint x="400" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
