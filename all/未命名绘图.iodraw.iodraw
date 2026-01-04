@@ -69,7 +69,7 @@
           <mxGeometry x="610" y="80" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kFzzLlEiG7KkbQ5cCiwf-23" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;生成&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;dgsblk&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;压缩数据流&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="140" width="132.5" height="50" as="geometry" />
+          <mxGeometry x="607.5" y="130" width="132.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
