@@ -16,7 +16,7 @@
             <mxPoint x="380" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-3" value="生成多帧ply模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生成多帧ply模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="220" y="110" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
