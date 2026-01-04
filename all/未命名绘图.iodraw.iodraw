@@ -7,7 +7,7 @@
         <mxCell id="SFWk7GHQEKH85XryTmDT-1" value="数字人模型训练" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=微软雅黑;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="75" y="80" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-1" value="DualGS训练" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-1" value="DualGS训练" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="85" y="130" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kFzzLlEiG7KkbQ5cCiwf-4" value="" style="endArrow=classic;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;html=1;fontFamily=微软雅黑;" edge="1" parent="1" source="kFzzLlEiG7KkbQ5cCiwf-1" target="kFzzLlEiG7KkbQ5cCiwf-6">
@@ -65,7 +65,7 @@
         <mxCell id="kFzzLlEiG7KkbQ5cCiwf-21" value="压缩分割" style="text;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="414" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-22" value="Unity实时渲染" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=微软雅黑;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-22" value="Unity实时渲染" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=微软雅黑;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="610" y="80" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kFzzLlEiG7KkbQ5cCiwf-23" value="通过Addressables进行数据流管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
