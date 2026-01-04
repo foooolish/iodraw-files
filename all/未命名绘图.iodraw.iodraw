@@ -44,7 +44,7 @@
         <mxCell id="kFzzLlEiG7KkbQ5cCiwf-13" value="数字人模型压缩" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=微软雅黑;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="343.75" y="80" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-14" value="读取多帧Ply模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-14" value="读取多帧Ply模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kFzzLlEiG7KkbQ5cCiwf-15" value="" style="endArrow=classic;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;html=1;fontFamily=微软雅黑;" edge="1" parent="1" source="kFzzLlEiG7KkbQ5cCiwf-7" target="kFzzLlEiG7KkbQ5cCiwf-14">
@@ -68,7 +68,7 @@
         <mxCell id="kFzzLlEiG7KkbQ5cCiwf-22" value="Unity实时渲染" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=微软雅黑;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="610" y="80" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-23" value="通过Addressables进行数据流管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-23" value="通过Addressables进行数据流管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="587.5" y="130" width="172.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kFzzLlEiG7KkbQ5cCiwf-24" value="" style="endArrow=classic;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;html=1;fontFamily=微软雅黑;" edge="1" parent="1" target="kFzzLlEiG7KkbQ5cCiwf-23">
@@ -90,7 +90,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-27" value="按帧解码数据" style="text;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="kFzzLlEiG7KkbQ5cCiwf-27" value="按帧解码数据" style="text;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="200" width="92.5" height="30" as="geometry" />
         </mxCell>
       </root>
